@@ -1,0 +1,2 @@
+- Load in Rdata file to Rstudio.
+- Run R script.
