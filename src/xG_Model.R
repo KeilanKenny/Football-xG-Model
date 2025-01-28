@@ -1,3 +1,5 @@
+print(hello)
+
 load("model_data.Rda")
 
 #make this example reproducible
